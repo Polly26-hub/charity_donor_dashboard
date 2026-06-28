@@ -45,6 +45,27 @@ The dashboard includes:
   - London generated the highest total donation value across all locations, suggesting strong donor engagement in this region and potential for more focused fundraising activity.
   - Donations remained relatively consistent for all locations from January to November. There was a significant increase in December which suggests strong seasonal giving behaviour.
 
+## Skills demonstrated
+
+- Microsoft Ecxel
+- Data cleaning
+- Pivot Tables
+- Pivot charts
+- Interactive Dashboards
+- KPI reporting
+- Data visualisation
+
+## Future improvements
+
+- Building the dashboard in Power BI.
+- Add donor retention analysis.
+- Connecting the dashboard to a SQL database.
+
+## About this project
+
+As someone transitioning in data analysis, I created this project to apply and demonstrate the skills I have been learning in Excel, including data cleaning, Pivot tables, dashboard creation, KPI reporting, and data visualisation. 
+This project reflects my commintment to continuous learning. I look forward to building on these skills through future projects within the charity sector using data to support fundraising.
+
 
 
   
